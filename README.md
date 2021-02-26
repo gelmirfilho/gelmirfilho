@@ -1,4 +1,4 @@
-### Hi there 👋https://img.shields.io/amo/dw/a
+### Hi there 👋
 
 <!--
 **gelmirfilho/gelmirfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
