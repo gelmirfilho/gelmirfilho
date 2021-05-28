@@ -1,6 +1,6 @@
-# Welcome, my name is Gelmir Filho.
+Welcome, my name is Gelmir Filho.
 
-## I'm study information system at Unitins.
+I'm study information system at Unitins.
 
 <h2>Front-End</h2>
 <p>
